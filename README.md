@@ -1,2 +1,2 @@
-# learn-webdev
+# Learn Web Development!
 Resources for learning web development, made for the GNPL Levels Hackathon
