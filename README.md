@@ -1,2 +1,2 @@
-# Learn Web Development!
-Resources for learning web development, made for the GNPL Levels Hackathon
+# Learn: Web Development Track
+These resources have been aggregated for the web development track of the Great Neck Public Library, Levels Hackathon.
