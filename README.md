@@ -1,6 +1,8 @@
 # Learn: Web Development Track
 These resources have been aggregated for the web development track of the Great Neck Public Library, Levels Hackathon.
 
+> You'll need to create a Github account and setup the Atom Text Editor for most of these tutorials.
+
 |Tutorial|Topics Covered|
 |---|---|
 |[Create a website with a Bootstrap Template and Github Pages](https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages/)|HTML, Git, Github Pages|
